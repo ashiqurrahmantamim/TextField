@@ -103,6 +103,8 @@ class _MyHomePageState extends State<MyHomePage> {
             const Text(
               'You have pushed the button this many times:',
             ),
+            SizedBox(height: 12,),
+            Text("Ami ki lekhi ami nijeo jani na"),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headline4,

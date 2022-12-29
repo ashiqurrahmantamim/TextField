@@ -97,6 +97,10 @@ class _MyHomePageState extends State<MyHomePage> {
           children: <Widget>[
 
             Container(height: 15,width: double.infinity,),
+            Container(height: 15,width: double.infinity,),
+            Container(height: 15,width: double.infinity,),
+            Container(height: 15,width: double.infinity,),
+            Container(height: 15,width: double.infinity,),
             const Text(
               'You have pushed the button this many times:',
             ),
